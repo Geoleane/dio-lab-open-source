@@ -893,6 +893,29 @@
   <tfoot></tfoot>
 </table>
 
+## Ferramentas de BI
+
+<table>
+  <thead>
+    <tr align="left">
+      <th>Badge</th>
+      <th>Markdown</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+     <tr>
+      <td>
+        <img align="center" alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+      </td>
+      <td>
+        <code>![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+        </code>
+      </td>
+    </tr>
+  </tbody>
+  <tfoot></tfoot>
+</table>
+
 ## Ferramentas
 
 <table>
@@ -946,3 +969,5 @@
   </tbody>
   <tfoot></tfoot>
 </table>
+
+
